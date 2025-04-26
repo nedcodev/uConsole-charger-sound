@@ -1,4 +1,4 @@
-# /etc/udev/rules.d/99-charger-sound.rules
+# /etc/udev/rules.d/99-uConsole-charger-sound.rules
 
 # Charger is connected
 SUBSYSTEM=="power_supply", ATTR{online}=="1", ACTION=="change", \

@@ -1,5 +1,5 @@
 #!/bin/bash
-# /usr/local/bin/charger-sound.sh
+# /usr/local/bin/uConsole-charger-sound.sh
 
 # Play sound while handling mute
 play_sound() {
